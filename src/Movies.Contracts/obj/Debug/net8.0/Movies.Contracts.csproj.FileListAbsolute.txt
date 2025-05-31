@@ -1,0 +1,12 @@
+/mnt/extraspace/projects/movies_project/src/Movies.Contracts/bin/Debug/net8.0/Movies.Contracts.deps.json
+/mnt/extraspace/projects/movies_project/src/Movies.Contracts/bin/Debug/net8.0/Movies.Contracts.dll
+/mnt/extraspace/projects/movies_project/src/Movies.Contracts/bin/Debug/net8.0/Movies.Contracts.pdb
+/mnt/extraspace/projects/movies_project/src/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/extraspace/projects/movies_project/src/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.AssemblyInfoInputs.cache
+/mnt/extraspace/projects/movies_project/src/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.AssemblyInfo.cs
+/mnt/extraspace/projects/movies_project/src/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.csproj.CoreCompileInputs.cache
+/mnt/extraspace/projects/movies_project/src/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.sourcelink.json
+/mnt/extraspace/projects/movies_project/src/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.dll
+/mnt/extraspace/projects/movies_project/src/Movies.Contracts/obj/Debug/net8.0/refint/Movies.Contracts.dll
+/mnt/extraspace/projects/movies_project/src/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.pdb
+/mnt/extraspace/projects/movies_project/src/Movies.Contracts/obj/Debug/net8.0/ref/Movies.Contracts.dll

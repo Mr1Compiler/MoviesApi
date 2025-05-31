@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2A0XnO+7ogk=",
+  "dgSpecHash": "ic1ObVoi4Lk=",
   "success": true,
   "projectFilePath": "/mnt/extraspace/projects/movies_project/src/Movies.Application/Movies.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/mr1compiler/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.5/microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
